@@ -4,8 +4,7 @@ title: Services
 permalink: /services/
 ---
 
-Albro Land Corporation specializes in the following areas:
-
+### Albro Land Corporation specializes in the following:
 
 | Installation | Maintenance | Lawn Treatment & Clean-Up |
 | :---: | :---: | :---: |
@@ -25,38 +24,4 @@ Albro Land Corporation specializes in the following areas:
 | Top Soil | | |
 | Stonework | | |
 
-
-# Installation
-- Sprinkler Systems
-- Lighting
-- Sod
-- Shrubs
-- Flower Beds
-- Trees
-- Grass Seed
-- Patios
-- Walkways
-- Paver Drives
-- Retaining Walls
-- Mulch
-- River Rock
-- Top Soil
-- Stonework
-
-# Maintenance
-- Mowing
-- Edging
-- Weeding
-- Blowing
-- Bush & Tree Trimming
-- Debris Removal
-
-# Lawn Treatment & Cean-Up
-- Fertilizing
-- Weed Killer
-- Pest & Grub Control
-- Core Aeration
-- Soil Amendment
-- Spring Clean-up
-- Fall Clean-up
-- Gutters
+[<img src="{{ site.baseurl }}/images/albro-sprinkler.jpg" alt="Albro Land Corporation" style="width: 720px;"/>]({{ site.baseurl }}/)
