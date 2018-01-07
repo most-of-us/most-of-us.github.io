@@ -6,8 +6,7 @@ permalink: /services/
 
 Albro Land Corporation specializes in the following areas:
 
-# INSTALLATION SERVICES
-
+# Installation
 - Sod
 - Shrubs
 - Flower Beds
@@ -22,8 +21,7 @@ Albro Land Corporation specializes in the following areas:
 - Top Soil
 - Stonework
 
-# MAINTENANCE SERVICES
-
+# Maintenance
 - Mowing
 - Edging
 - Weeding
@@ -31,8 +29,7 @@ Albro Land Corporation specializes in the following areas:
 - Bush & Tree Trimming
 - Debris Removal
 
-# LAWN TREATMENT & CLEAN-UP SERVICES
-
+# Lawn Treatment & Cean-Up
 - Fertilizing
 - Weed Killer
 - Pest & Grub Control
