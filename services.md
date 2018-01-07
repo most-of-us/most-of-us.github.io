@@ -8,7 +8,7 @@ Albro Land Corporation specializes in the following areas:
 
 
 | Installation | Maintenance | Lawn Treatment & Clean-Up |
-| ------------ | ----------- | ------------------------- |
+| :---: | :---: | :---: |
 | Sprinkler Systems | Mowing | Fertilizing |
 | Lighting | Edging | Weed Killer |
 | Sod | Weeding | Pest & Grub Control |
@@ -25,8 +25,6 @@ Albro Land Corporation specializes in the following areas:
 | Top Soil | | |
 | Stonework | | |
 
-
-TEST AGAIN
 
 # Installation
 - Sprinkler Systems
