@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Services
+permalink: /services/
 ---
 
 Albo Land Corporation specializes in the following areas:
