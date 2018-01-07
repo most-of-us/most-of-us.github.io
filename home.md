@@ -8,4 +8,5 @@ permalink: /home/
 
 # The Area We Service
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d94829.09672792439!2d-87.8184956071289!3d42.03440336025325!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1515308853453" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+[<img src="{{ site.baseurl }}/images/service-map.jpg" alt="Albro Land Corporation" style="width: 720px;"/>]({{ site.baseurl }}/)
