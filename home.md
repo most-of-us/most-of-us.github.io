@@ -6,15 +6,13 @@ permalink: /about/
 
 Family owned and operated for over 50 years, Specializing in Underground Sprinkler Systems, Landscaping & Lighting.
 
-### More Information
+### From the Owner
 
 We have been family owned and operated for over 50 years. We love what we do and the community and people we work for and share our time with. Thank you everyone for your continued support! We look forward to serving you! - Bill Albro
 
-### Contact Us
+### Contact Us for an Estimate!
 
 (847) 825-7000
-
-16 Prairie Avenue
 
 Park Ridge, Illinois
 
