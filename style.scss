@@ -200,11 +200,11 @@ img {
   @include mobile {
     float: none;
     display: block;
-    margin: auto auto;
+    margin: 300px auto;
   }
 
   img {
-    border-radius: 15px;
+    border-radius: 5px;
   }
 }
 
@@ -228,18 +228,13 @@ img {
   letter-spacing: 1px;
 }
 
-
-  @include mobile {
-    margin: 300px 0;
-  }
-
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
 
   @include mobile {
-    margin: 300px 0;
+    margin: 3px 0;
   }
 }
 
