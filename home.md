@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Home
+permalink: /home/
 ---
 
 Family owned and operated for over 50 years, Specializing in Underground Sprinkler Systems, Landscaping & Lighting.
