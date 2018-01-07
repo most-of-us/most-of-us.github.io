@@ -200,7 +200,8 @@ img {
   @include mobile {
     float: none;
     display: block;
-    margin-bottom: 300px;
+    margin: 0 auto;
+    margin-bottom: 50px;
   }
 
   img {
