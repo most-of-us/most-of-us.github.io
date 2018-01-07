@@ -200,11 +200,11 @@ img {
   @include mobile {
     float: none;
     display: block;
-    margin: 300px auto;
+    margin: 0 auto;
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 100px;
   }
 }
 
