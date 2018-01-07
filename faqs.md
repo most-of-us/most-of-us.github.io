@@ -5,13 +5,13 @@ permalink: /faqs/
 ---
 
 ### Q: What size jobs do we work on?
-A: We have completed projects ranging from $1,000 to $900,000. We’ve worked on everything from installing a new paver patio in a yard in Lake View to landscaping the Museum Park Campus in the South Loop.
+A: We have completed projects ranging from $500 to $200,000.
 
 ### Q: Do we provide free estimates?
 A: Yes, we do.
 
 ### Q: Do we charge a design fee?
-A: Many estimates and proposals can be done without a formal plan. Our designers can provide an informal sketch, FREE of charge with your estimate. If you need a formal landscape plan, there will be a modest charge which is applied as a credit to the overall landscape invoice if Cityscape is hired to complete the work.
+A: Many estimates and proposals can be done without a formal plan. Our designers can provide an informal sketch, FREE of charge with your estimate. If you need a formal landscape plan, there will be a modest charge which is applied as a credit to the overall landscape invoice if Albro Land Corporation is hired to complete the work.
 
 ### Q: Are we Bonded and Insured?
 A: Yes, we are. Certificates of insurance are available upon request. Performance bonds add 5% to 10% to the job and are available upon request.
