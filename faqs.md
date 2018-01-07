@@ -27,4 +27,4 @@ Note: In order to keep guarantees in force, all invoices must be paid within 30 
 ### Q: Do we guarantee sod and annual flowers?
 A: No. Sod and annual flowers can be the fastest and most efficient way to add color and value to your landscape. Unfortunately, both sod and annual flowers are also the most drought-sensitive items we install.
 
-Sod and annual flowers are guaranteed fresh upon installation but are not guaranteed after installation, unless Cityscape is contracted for watering and care post-installation.
+Sod and annual flowers are guaranteed fresh upon installation but are not guaranteed after installation, unless Albro Land Corporation is contracted for watering and care post-installation.
