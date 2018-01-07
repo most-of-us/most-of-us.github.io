@@ -8,4 +8,4 @@ permalink: /home/
 
 # The Area We Service
 
-[<img src="{{ site.baseurl }}/images/service-map.jpg" alt="Albro Land Corporation Service Map" style="width: 720px;"/>]({{ site.baseurl }}/)
+[<img src="{{ site.baseurl }}/images/service-map.jpeg" alt="Albro Land Corporation Service Map" style="width: 720px;"/>]({{ site.baseurl }}/)
