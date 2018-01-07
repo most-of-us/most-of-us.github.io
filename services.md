@@ -6,6 +6,11 @@ permalink: /services/
 
 Albro Land Corporation specializes in the following areas:
 
+| Installation | Maintenance | Lawn Treatment & Clean-Up |
+| ------------ | ----------- | ------------------------- |
+| Sprinkler 2 | Sprinkler 5 | Sprinkler 8 |
+| Test 8 | Test 77 | Tesk 44 |
+
 # Installation
 - Sprinkler Systems
 - Lighting
