@@ -188,7 +188,6 @@ img {
 
   @include mobile {
     text-align: center;
-    margin-bottom: 500px;
   }
 }
 
@@ -201,7 +200,7 @@ img {
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
+    margin-bottom: 300px;
   }
 
   img {
