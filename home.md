@@ -4,7 +4,7 @@ title: Home
 permalink: /home/
 ---
 
-#### _Family owned and operated, servicing your neighborhood for over 50 years. We specialize in underground sprinkler system planning, installation and maintenance, as well as all of your lawn care needs. Whether your looking for Landscape Design, Outdoor lighting or regular clean-up & maintenance, **Albro Land Corporation is here to make your Home or Business the talk of the town!**_
+_Family owned and operated, servicing your neighborhood for over 50 years. We specialize in underground sprinkler system planning, installation and maintenance, as well as all of your lawn care needs. Whether your looking for Landscape Design, Outdoor lighting or regular clean-up & maintenance, **Albro Land Corporation is here to make your Home or Business the talk of the town!**_
 
 ----
 
@@ -15,3 +15,5 @@ permalink: /home/
 # The Area We Service
 
 [<img src="{{ site.baseurl }}/images/service-map.jpeg" alt="Albro Land Corporation Service Map" style="width: 720px;"/>]({{ site.baseurl }}/)
+
+----
