@@ -4,7 +4,7 @@ title: Declaration of Faith
 permalink: /declarationoffaith/
 ---
 
-**Declaration of Faith**
+##DECLARATION OF FAITH
 
 Our main purpose is to help any and all who ask to find truth, regardless of race, gender, or background.
 
