@@ -4,7 +4,7 @@ title: Statement of Beliefs
 permalink: /statementofbeliefs/
 ---
 
-##STATEMENT OF BELIEFS
+## STATEMENT OF BELIEFS
 
 We, at the Ministry of Science & Technology of the United States, Inc., are a church that believes that we are all seeking and discovering truth.
 
@@ -15,4 +15,3 @@ We welcome any who seek truth.
 We use teaching material from a variety of sources, as wisdom is found in many places.
 
 ----
-
