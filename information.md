@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Information
-permalink: /information/
+title: IRS Qualifications
+permalink: /irsqualifications/
 ---
 
 ## IRS CHURCH QUALIFICATION GUIDELINES
@@ -11,11 +11,11 @@ Below is a list of the 14 Points which the IRS uses as a guidlines to determine 
 The Universal Life Church Seminary has been working dilligently since its inception to meet the criterion for non-profit status with the IRS. I'm going to discuss how MOSTofUS meets each of these points.
 
 1) Distinct legal existence
-- The Ministry of Science & Technology in the United States will be incorporated in 2020. A President and Vice-President was selected at that time.
+- The Ministry of Science & Technology in the United States will be incorporated in 2020. A board of directors was selected at that time and have had regular meetings.
 2) Recognized creed and form of worship
-- We have a posted Declaration of Intent and Statement of Beliefs. The congregation of this ministry get regular communication in the form of emails and website postings.
+- We have a posted [Declaration of Faith](/declarationoffaith/) and [Statement of Beliefs](/statementofbeliefs/). The congregation of this ministry get regular communication in the form of emails and website postings.
 3) Definite and distinct ecclesiastical government
-- A single President, then Vice-Presidents, then Leaders, then Members.  All roles are considered associates of MOSTofUS.
+- As previously mentioned, we have a board of directors.
 4) Formal code of doctrine and discipline
 - Our doctrine is clear and concise: To Do That Which is Right. If any of our associates choose to ignore that doctrine, they can be removed from membership in the Ministry.
 5) Distinct religious history
