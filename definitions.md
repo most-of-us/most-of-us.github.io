@@ -4,6 +4,10 @@ title: Definitions
 permalink: /definitions/
 ---
 
+## DEFINITIONS
+
+***Chaplain*** - a person chosen to conduct religious exercises (as at a meeting of a club or society)
+
 ***Devotion*** - love, loyalty, or enthusiasm for a person, activity, or cause
 
 ***Faith*** - something that is believed especially with strong conviction
