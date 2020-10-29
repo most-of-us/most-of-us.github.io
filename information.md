@@ -4,7 +4,7 @@ title: Information
 permalink: /information/
 ---
 
-## 
+## Coming soon...
 
 
 ({{ site.baseurl }}/)
