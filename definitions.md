@@ -4,18 +4,18 @@ title: Definitions
 permalink: /definitions/
 ---
 
-*_Faith_* - something that is believed especially with strong conviction
+***Faith*** - something that is believed especially with strong conviction
 
-*_Ministry_* - a thing through which something is accomplished
+***Ministry*** - a thing through which something is accomplished
 
-*_Science_* - the state of knowing : knowledge as distinguished from ignorance or misunderstanding
+***Science*** - the state of knowing : knowledge as distinguished from ignorance or misunderstanding
 
-*_Scientific Method_* - principles and procedures for the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment, and the formulation and testing of hypotheses
+***Scientific Method*** - principles and procedures for the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment, and the formulation and testing of hypotheses
 
-*_Scientific Theory_* - an explanation of an aspect of the natural world that can be repeatedly tested and verified in accordance with the scientific method, using accepted protocols of observation, measurement, and evaluation of results.
+***Scientific Theory*** - an explanation of an aspect of the natural world that can be repeatedly tested and verified in accordance with the scientific method, using accepted protocols of observation, measurement, and evaluation of results.
 
-*_Supernatural_* - of or relating to an order of existence beyond the visible observable universe
+***Supernatural*** - of or relating to an order of existence beyond the visible observable universe
 
-*_Technology_* - methods, systems, and devices which are the result of scientific knowledge being used for practical purposes.
+***Technology*** - methods, systems, and devices which are the result of scientific knowledge being used for practical purposes.
 
 ----
