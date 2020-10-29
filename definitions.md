@@ -16,6 +16,6 @@ permalink: /definitions/
 
 ***Supernatural*** - of or relating to an order of existence beyond the visible observable universe
 
-***Technology*** - methods, systems, and devices which are the result of scientific knowledge being used for practical purposes.
+***Technology*** - methods, systems, and devices which are the result of scientific knowledge being used for practical purposes
 
 ----
