@@ -19,11 +19,11 @@ The Universal Life Church Seminary has been working dilligently since its incept
 4) Formal code of doctrine and discipline
 - Our doctrine is clear and concise: To Do That Which is Right. If any of our associates choose to ignore that doctrine, they can be removed from membership in the Ministry.
 5) Distinct religious history
-- Created by Tim Dime in 2020.  MOSTofUS was formed after it was believed that science can prove or disprove everything with time and technology after technological breakthroughs made it possible to push scientific efforts forward.
+- Created in 2020.  MOSTofUS was formed after it was believed that science can prove or disprove everything with time and technology after technological breakthroughs made it possible to push scientific efforts forward.
 6) Membership not associated with any other church or denomination
 - While we don't require that any of our associates renounce membership in any other church to which they may belong, most of our ministers are exclusively members of the MOSTofUS.
 7) Organization of ordained ministers
-- The only ordained minister, at this point in time, is Tim Dime as the President of MOSTofUS.
+- There is only one ordained minister of MOSTofUS, who is also the President.
 8) Ordained ministers selected after completing prescribed courses of study
 - Prescribed courses of study are to obtain a Bachelor of Science degree or like from an accredited University. 
 9) Literature of its own
