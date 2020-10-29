@@ -15,7 +15,7 @@ The Universal Life Church Seminary has been working dilligently since its incept
 3. **Definite and distinct ecclesiastical government** - As previously mentioned, we have a board of directors.
 4. **Formal code of doctrine and discipline** - Our doctrine is clear and concise: To Do That Which is Right. If any of our associates choose to ignore that doctrine, they can be removed from membership in the Ministry.
 5. **Distinct religious history** - MOSTofUS was formed after it was believed that Science can prove or disprove everything with time after technological advancements began paving the way toward scientific breakthroughs.  As the general public make references to "believing in" Science, MOSTofUS takes that a step further in that we strive to understand Science and believe, through Science, everything will one day be explainable.
-6. **Membership not associated with any other church or denomination** - While we don't require that any of our associates renounce membership in any other church to which they may belong, most of our ministers are exclusively members of the MOSTofUS.
+6. **Membership not associated with any other church or denomination** - While we don't require that any of our associates renounce membership in any other church to which they may belong, most of our ministers are exclusively members of MOSTofUS.
 7. **Organization of ordained ministers** - There is only one ordained minister of MOSTofUS, who is also the President.
 8. **Ordained ministers selected after completing prescribed courses of study** - Prescribed courses of study are to obtain a Bachelor of Science degree or like from an accredited University. 
 9. **Literature of its own** - This website contains growing literature to support the Ministry's cause.
