@@ -4,6 +4,8 @@ title: Definitions
 permalink: /definitions/
 ---
 
+***Devotion*** - love, loyalty, or enthusiasm for a person, activity, or cause
+
 ***Faith*** - something that is believed especially with strong conviction
 
 ***Ministry*** - a thing through which something is accomplished
