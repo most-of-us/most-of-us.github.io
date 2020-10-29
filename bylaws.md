@@ -3,14 +3,14 @@ layout: page
 title: Bylaws
 permalink: /bylaws/
 ---
-**BYLAWS OF The Ministry of Science & Technology of the United States, INC.**
+
+##BYLAWS
 
 ARTICLE I - PRINCIPAL OFFICE
 
 The principal office of the corporation, (also referred to as the Ministry) shall be located at: 6956 N Ozark Ave. Chicago, IL 60631.
 
-
-ARTICLE II- STRUCTURE OF MINISTRY, CIVIL, AND ECCLESIASTICAL
+###ARTICLE II- STRUCTURE OF MINISTRY, CIVIL, AND ECCLESIASTICAL
 
 2.1 Civil Structure. The civil officers of the corporation may be a President, Vice-President, Director of Innovation, Secretary, Treasurer, and such other offices as the corporation shall establish.
 
@@ -30,8 +30,7 @@ ARTICLE II- STRUCTURE OF MINISTRY, CIVIL, AND ECCLESIASTICAL
 
 2.2.1 The Board of Directors
 
-
-ARTICLE III - THE BOARD OF DIRECTORS, ITS ORGANIZATION, POWERS AND DUTIES
+###ARTICLE III - THE BOARD OF DIRECTORS, ITS ORGANIZATION, POWERS AND DUTIES
 
 3.1 The Board of Directors shall be at least 2 in number and shall have the power to exercise all powers necessary for the operation of the Ministry, expressed or implied, which shall be necessary and proper to carry out all the executive functions, and all other powers both civil and ecclesiastical as it may determine.
 
@@ -57,41 +56,20 @@ ARTICLE III - THE BOARD OF DIRECTORS, ITS ORGANIZATION, POWERS AND DUTIES
 
 3.4.5 The treasurer shall be authorized to appoint persons to assist the Treasurer in carrying out the duties and functions of the Treasurers Office.
 
-
-ARTICLE IV - MEETINGS
+###ARTICLE IV - MEETINGS
 
 4.1 The annual meeting of the Ministry shall be held on the first Tuesday of May of each year. At that meeting Directors shall be appointed to office as appropriate.
 
 4.2 Special Meetings may be called by the Board of Directors or the Chaplain as they in their discretion deem necessary. Notices for the calling of such special meetings shall be given to all members in writing with 3 days prior written notice.
 
-
-ARTICLE V - RULES AND REGULATIONS
+###ARTICLE V - RULES AND REGULATIONS
 
 5.1 The Board of Directors may adopt such rules of procedure and regulations governing the conduct of its business and the organization of the Ministry as they may deem necessary, proper and expedient.
 
 5.1.1 There can be no appeal from the decisions and determinations of the Board of Directors.
 
- 
-
-ARTICLE VI - AMENDMENTS TO THE BYLAWS
+###ARTICLE VI - AMENDMENTS TO THE BYLAWS
 
 The provisions of the Bylaws may be modified, altered or amended by two-thirds majority vote of the members of the Board of Directors at a regular or special meeting. As soon as the proposed amendments have been adopted as herein provided, results of the vote shall be announced by the Chaplain and declared adopted by the Chairman of the Board of Directors, whereupon such amendments shall be in full force of effect.
 
- 
-
-IN WITNESS WHEREOF, I have hereunto set my hand and seal, acknowledged and filed the foregoing Articles of Incorporation under the laws of the State of Delaware this twenty-eighth day of October, 2020.
-
- 
-
-_____________, Incorporator
-
-Signature of Incorporator
-
- 
-
-_________________
-
-Print Name of Incorporator
-
 ----
-
