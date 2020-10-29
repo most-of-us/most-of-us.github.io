@@ -6,7 +6,7 @@ permalink: /home/
 
 ## STATEMENT OF BELIEFS
 
-* We, at the Ministry of Science & Technology of the United States, Inc., are a church that believes that we are all seeking and discovering truth.
+* We, at the Ministry of Science & Technology of the United States, Inc., are a ministry that believes that we are all seeking and discovering truth.
 * We have faith that the understanding of all aspects of the physical world can be obtained through Science, often with the assistance of Technology.
 * We believe that in time, through evidence obtained through Scientific Theory, everything has a scientific explanation.
 * We believe there are no final supernatural elements, only that supernatural is a state in which an element cannot currently be proven or disproven by Science.
