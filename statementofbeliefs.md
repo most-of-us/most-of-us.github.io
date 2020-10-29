@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statement of Beliefs
-permalink: /statementofbeliefs/
+permalink: /home/
 ---
 
 ## STATEMENT OF BELIEFS
