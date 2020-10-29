@@ -8,5 +8,6 @@ permalink: /home/
 * In time, through evidence obtained through Scientific Theory, everything has a scientific explanation.
 * There is no final supernatural element, only that supernatural is a state in which an element cannot currently be proven or disproven by Science.
 * Devotion to educating yourself and others on Science to foster the pursuit of truths.
+
 ----
 
