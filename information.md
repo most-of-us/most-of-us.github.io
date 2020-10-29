@@ -29,7 +29,7 @@ The Universal Life Church Seminary has been working dilligently since its incept
 9) Literature of its own
 - This website contains growing literature to support the Ministry's cause.
 10) Established places of worship
-- Internet, the home of President Timothy Dime
+- Online through the resources provided through this website.
 11) Regular congregations
 - Our members congregate primarily in person, almost daily.
 12) Regular religious services
