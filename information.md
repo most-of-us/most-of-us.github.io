@@ -4,15 +4,14 @@ title: Information
 permalink: /information/
 ---
 
-## Coming soon...
+## IRS CHURCH QUALIFICATION GUIDELINES
 
+Below is a list of the 14 Points which the IRS uses as a guidlines to determine whether or not an entity can be called a 'church' and therefore be entitled to tax-exempt status.
 
+The Universal Life Church Seminary has been working dilligently since its inception to meet the criterion for non-profit status with the IRS. I'm going to discuss how MOSTofUS meets each of these points.
 
-----
-
-<!-- 
 1) Distinct legal existence
-- The Ministry of Science & Technology in the United States was incorporated in 2020. A President and Vice-President was selected at that time.
+- The Ministry of Science & Technology in the United States will be incorporated in 2020. A President and Vice-President was selected at that time.
 2) Recognized creed and form of worship
 - We have a posted Declaration of Intent and Statement of Beliefs. The congregation of this ministry get regular communication in the form of emails and website postings.
 3) Definite and distinct ecclesiastical government
@@ -39,4 +38,5 @@ permalink: /information/
 - We believe that parents are the best ones to instruct their young in their beliefs. However, we also feel that providing instructional material may help parents or Sunday School teachers enhance their teaching abilities. We encourage our associates to share their favorite Sunday School lessons to share with the congregation.
 14) Schools for the preparation of its members
 - Public, private and home schooling systems with Technology and/or Science courses are recommended.  We feel it's essential that our Ministry of Science & Technology of the United States associates are well-educated and well-rounded.
--->
+
+----
