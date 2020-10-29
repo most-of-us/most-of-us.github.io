@@ -7,6 +7,4 @@ permalink: /information/
 ## Coming soon...
 
 
-({{ site.baseurl }}/)
-
 ----
