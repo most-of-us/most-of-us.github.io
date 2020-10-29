@@ -4,7 +4,7 @@ title: Articles of Incorporation
 permalink: /articlesofincorporation/
 ---
 
-**Articles of Incorporation
+**Articles of Incorporation**
 
 ARTICLE 1- NAME
 
