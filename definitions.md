@@ -10,6 +10,8 @@ permalink: /definitions/
 
 ***Ministry*** - a thing through which something is accomplished
 
+***Religion*** - something one believes in and follows devotedly; a point or matter of ethics or conscience
+
 ***Science*** - the state of knowing : knowledge as distinguished from ignorance or misunderstanding
 
 ***Scientific Method*** - principles and procedures for the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment, and the formulation and testing of hypotheses
