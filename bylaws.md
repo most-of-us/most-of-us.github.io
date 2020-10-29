@@ -10,7 +10,7 @@ permalink: /bylaws/
 
 The principal office of the corporation, (also referred to as the Ministry) shall be located at: 6956 N Ozark Ave. Chicago, IL 60631.
 
-### ARTICLE II- STRUCTURE OF MINISTRY, CIVIL, AND ECCLESIASTICAL
+### ARTICLE II - STRUCTURE OF MINISTRY, CIVIL, AND ECCLESIASTICAL
 
 ***2.1*** Civil Structure. The civil officers of the corporation may be a President, Vice-President, Director of Innovation, Secretary, Treasurer, and such other offices as the corporation shall establish.
 
