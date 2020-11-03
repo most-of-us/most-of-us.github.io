@@ -8,7 +8,7 @@ permalink: /irsqualifications/
 
 Below is a list of the 14 Points which the IRS uses as a guidlines to determine whether or not an entity can be called a 'church' and therefore be entitled to tax-exempt status.
 
-The Universal Life Church Seminary has been working dilligently since its inception to meet the criterion for non-profit status with the IRS. I'm going to discuss how MOSTofUS meets each of these points.
+The Ministry of Science & Technology in the United States has been working dilligently since its inception to meet the criterion for non-profit status with the IRS. I'm going to discuss how MOSTofUS meets each of these points.
 
 1. **Distinct legal existence** - The Ministry of Science & Technology in the United States will be incorporated in 2020. A board of directors was selected at that time and have had regular meetings.
 2. **Recognized creed and form of worship** - We have a posted [Declaration of Faith](/declarationoffaith/) and [Statement of Beliefs](/home/). The congregation of this ministry get regular communication in the form of emails and website postings.
