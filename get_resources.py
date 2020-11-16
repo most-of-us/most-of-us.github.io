@@ -29,7 +29,7 @@ with open('./resources.csv', newline='') as csvfile:
 
 			DIVS += '''<div class="container" style="display: none;" id="{postDate}">\n'''.format(postDate=postDate, description=description, identifier=identifier)
 			DIVS += '''<h4 data-toggle="collapse" data-target="#{postDate}_collapse">{description} (posted: {postDate})</h4>\n'''.format(postDate=postDate, description=description, identifier=identifier)
-			DIVS += '''<div id="{postDate}_collapse" class="collapse"><iframe width="560" height="315" src="https://www.youtube.com/embed/{identifier}&t=15" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n'''.format(postDate=postDate, description=description, identifier=identifier)
+			DIVS += '''<div id="{postDate}_collapse" class="collapse"><iframe width="560" height="315" src="https://www.youtube.com/embed/{identifier}?start=15&modestbranding=1&fs=0&disablekb=1&controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n'''.format(postDate=postDate, description=description, identifier=identifier)
 			DIVS += '''<p>{description} (posted: {postDate})</p>\n</div></div>\n'''.format(postDate=postDate, description=description, identifier=identifier)
 		counter+=1
 
