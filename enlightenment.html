@@ -48,6 +48,14 @@
       <article class="page">
   <div class="entry">
 
+<div class="container" style="display: none;" id="2021-02-13">
+<h3 data-toggle="collapse" data-target="#2021-02-13_collapse">The fascinating (and dangerous) places scientists aren't exploring | Ella Al-Shamahi (posted: 2021-02-13)</h3>
+<div id="2021-02-13_collapse" class="collapse show">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xgW-0egOWVg" frameborder="0" allowfullscreen></iframe>
+<p>The fascinating (and dangerous) places scientists aren't exploring | Ella Al-Shamahi (posted: 2021-02-13)</p>
+</div>
+</div>
+	  
 <div class="container" style="display: none;" id="2020-11-15">
 <h3 data-toggle="collapse" data-target="#2020-11-15_collapse">The fascinating (and dangerous) places scientists aren't exploring | Ella Al-Shamahi (posted: 2020-11-15)</h3>
 <div id="2020-11-15_collapse" class="collapse show">
@@ -92,6 +100,7 @@
 <script>
 
 function start() {
+	compareDate("2021-02-13");
 	compareDate("2020-11-15");
   	compareDate("2020-01-05");
 	compareDate("2018-02-09");
@@ -114,7 +123,8 @@ function compareDate(datePosted) {
   var datePostedClean = datePosted.replace(/-/g, "");
   if (Number(datePostedClean) <= Number(currentDate)) {
     x.style.display = "block";
-    if (Number(datePostedClean) >= Number(currentDate) - 15) {
+    var twoWeeksAgo = Number(currentDate) - 15
+    if (Number(datePostedClean) >= twoWeeksAgo) {
        var res = datePosted.concat("_collapse")
        document.getElementById(res).className = "collapse show";
     }
