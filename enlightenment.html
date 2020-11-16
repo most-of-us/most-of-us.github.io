@@ -47,6 +47,21 @@
 <p>success!</p>
 <p>Date: <span id="datetime"></span></p>
 
+    <div id="mbcRadioList" runat="server" visible="false">
+    <p style="bold">BUILD BUT HIDE UNTIL 10/13!!!<p>
+    <p><strong>Want to learn more?</strong> Select a video topic to better understand the varied experiences of people living with MBC and their family and friends.</p>
+    <div class="checkBoxesColumn">
+        <label><input name="videoWallRadio" type="radio" id="" value="" />View All</label>
+        <label><input name="videoWallRadio" type="radio" id="" value="" checked />My MBC Journey</label>
+        <label><input name="videoWallRadio" type="radio" id="" value="" />Challenges</label>
+        <label><input name="videoWallRadio" type="radio" id="" value="" />Positive Outlooks &amp; Advice</label>
+        <label><input name="videoWallRadio" type="radio" id="" value="" />Giving Thanks</label>
+        <label><input name="videoWallRadio" type="radio" id="" value="" />Family / Friend Perspective</label>
+    </div>
+</div>
+    
+    
+    
 <hr />
 
   </div>
@@ -65,5 +80,16 @@
 <script>
 var dt = new Date();
 document.getElementById("datetime").innerHTML = dt.toLocaleDateString();
+  
+protected void Page_Load(object sender, EventArgs e)
+    {
+        // ..... your other code
+
+                    if(DateTime.Now >= new DateTime(2012, 10, 13) ){
+                          mbcRadioList.Visible = true;
+                    }
+    }  
+  
+  
 </script>
   
