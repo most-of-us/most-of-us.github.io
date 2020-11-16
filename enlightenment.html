@@ -2,6 +2,10 @@
 <html>
   <head>
     <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA/4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEREREREREREBEREREREREAAAABERAAAAAAAAEREAAAAREREREREREREREREREREREQAAAAAAABERAAAAAAAAEREAAAAAAAAREQAAAAAAABERAAAAAAAAEREAAAAAAAAREQAAAAAAABERAAAAAAAAEREREREREREREREREREREREAAAAAgAEAAPw/AAD8PwAAAAAAAAAAAAA//AAAP/wAAD/8AAA//AAAP/wAAD/8AAA//AAAP/wAAAAAAAAAAAAA" rel="icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <title>MOSTofUS – Ministry of Science & Technology of the United States</title>
 
         <meta charset="utf-8" />
@@ -44,16 +48,31 @@
       <article class="page">
   <div class="entry">
 
-<div style="display: none;" id="2020-01-05">
-<h3>The fascinating (and dangerous) places scientists aren't exploring | Ella Al-Shamahi (posted: 2020-01-05)</h3>
+<div class="container" style="display: none;" id="2020-11-15">
+<h3 data-toggle="collapse" data-target="#2020-11-15_collapse">The fascinating (and dangerous) places scientists aren't exploring | Ella Al-Shamahi (posted: 2020-01-05)</h3>
+<div id="2020-11-15_collapse" class="collapse show">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgW-0egOWVg" frameborder="0" allowfullscreen></iframe>
+<p>The fascinating (and dangerous) places scientists aren't exploring | Ella Al-Shamahi (posted: 2020-01-05)</p>
+</div>
 </div>
 
-<div style="display: none;" id="2021-01-05">
-
+	  
+<div class="container" style="display: none;" id="2020-01-05">
+<h3 data-toggle="collapse" data-target="#2020-01-05_collapse">The fascinating (and dangerous) places scientists aren't exploring | Ella Al-Shamahi (posted: 2020-01-05)</h3>
+<div id="2020-01-05_collapse" class="collapse show">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgW-0egOWVg" frameborder="0" allowfullscreen></iframe>
+<p>The fascinating (and dangerous) places scientists aren't exploring | Ella Al-Shamahi (posted: 2020-01-05)</p>
 </div>
-    
+</div>
+	  
+<div class="container" style="display: none;" id="2018-02-09">
+<h3 data-toggle="collapse" data-target="#2018-02-09_collapse">The fascinating (and dangerous) places scientists aren't exploring | Ella Al-Shamahi (posted: 2020-01-05)</h3>
+<div id="2018-02-09_collapse" class="collapse show">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xgW-0egOWVg" frameborder="0" allowfullscreen></iframe>
+<p>The fascinating (and dangerous) places scientists aren't exploring | Ella Al-Shamahi (posted: 2020-01-05)</p>
+</div>
+</div>
+	  
     
 <hr />
 
@@ -73,13 +92,15 @@
 <script>
 
 function start() {
-	compareDate("2020-01-05");
-  compareDate("2021-01-05");
+	compareDate("2020-11-15");
+  	compareDate("2020-01-05");
+	compareDate("2018-02-09");
 }
 
 
 var currentDate = getDate();
 
+	
 function getDate() {
     var now = new Date();
     var y = now.getFullYear();
@@ -93,6 +114,9 @@ function compareDate(datePosted) {
   var datePostedClean = datePosted.replace(/-/g, "");
   if (Number(datePostedClean) <= Number(currentDate)) {
     x.style.display = "block";
+    if (Number(datePostedClean) >= Number(currentDate) - 15) {
+       document.getElementById(datePosted + "_collapse").className = "collapse show";
+    }
   } 
 }      
   
