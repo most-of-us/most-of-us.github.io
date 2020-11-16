@@ -18,7 +18,7 @@
 
   </head>
 
-  <body>
+  <body onload="start()">
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -44,22 +44,13 @@
       <article class="page">
   <div class="entry">
 
-<p>success!</p>
-<p>Date: <span id="datetime"></span></p>
-
-    <div id="mbcRadioList" runat="server" visible="false">
-    <p style="bold">BUILD BUT HIDE UNTIL 10/13!!!<p>
-    <p><strong>Want to learn more?</strong> Select a video topic to better understand the varied experiences of people living with MBC and their family and friends.</p>
-    <div class="checkBoxesColumn">
-        <label><input name="videoWallRadio" type="radio" id="" value="" />View All</label>
-        <label><input name="videoWallRadio" type="radio" id="" value="" checked />My MBC Journey</label>
-        <label><input name="videoWallRadio" type="radio" id="" value="" />Challenges</label>
-        <label><input name="videoWallRadio" type="radio" id="" value="" />Positive Outlooks &amp; Advice</label>
-        <label><input name="videoWallRadio" type="radio" id="" value="" />Giving Thanks</label>
-        <label><input name="videoWallRadio" type="radio" id="" value="" />Family / Friend Perspective</label>
-    </div>
+<div id="2020-01-05">
+This is my DIV element 2020.
 </div>
-    
+
+<div id="2021-01-05">
+This is my DIV element 2021.
+</div>
     
     
 <hr />
@@ -78,18 +69,32 @@
           </html>
         
 <script>
-var dt = new Date();
-document.getElementById("datetime").innerHTML = dt.toLocaleDateString();
-  
-protected void Page_Load(object sender, EventArgs e)
-    {
-        // ..... your other code
 
-                    if(DateTime.Now >= new DateTime(2012, 10, 13) ){
-                          mbcRadioList.Visible = true;
-                    }
-    }  
-  
+function start() {
+	compareDate("2020-01-05");
+  compareDate("2021-01-05");
+}
+
+
+var currentDate = getDate();
+
+function getDate() {
+    var now = new Date();
+    var y = now.getFullYear();
+    var m = now.getMonth() + 1;
+    var d = now.getDate();
+    return '' + y + (m < 10 ? '0' : '') + m + (d < 10 ? '0' : '') + d;
+}
+
+function compareDate(datePosted) {
+  var x = document.getElementById(datePosted);
+  var datePostedClean = datePosted.replace(/-/g, "");
+  if (Number(datePostedClean) <= Number(currentDate)) {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}      
   
 </script>
   
