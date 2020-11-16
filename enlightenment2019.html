@@ -49,7 +49,9 @@
   <div class="entry">
 	  
 <h3>Please review the 2019 archived material by clicking on a post of interest.</h3>
-
+	  <div id="loading">
+		  <a><img src="/images/loading.gif" /></a>
+		  </div>
 
 <div class="container" style="display: none;" id="2019-12-29">
 <h4 data-toggle="collapse" data-target="#2019-12-29_collapse">Robin Ince: Science versus wonder? (posted: 2019-12-29)</h4>
@@ -240,7 +242,8 @@ compareDate("2019-12-19");
 compareDate("2019-12-24");
 compareDate("2019-12-29");
 
-
+	var loading = document.getElementById("loading");
+	loading.style.display = "none";
 
 }
 
