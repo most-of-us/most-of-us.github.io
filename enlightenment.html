@@ -831,7 +831,7 @@ function compareDate(datePosted) {
   var datePostedClean = datePosted.replace(/-/g, "");
   if (Number(datePostedClean) <= Number(currentDate)) {
     x.style.display = "block";
-    var twoWeeksAgo = Number(currentDate) - 14;
+    var twoWeeksAgo = Number(currentDate) - 6;
     if (Number(datePostedClean) >= Number(twoWeeksAgo)) {
        var res = datePosted.concat("_collapse");
        document.getElementById(res).className = "no-collapsable";
