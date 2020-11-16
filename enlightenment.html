@@ -47,6 +47,8 @@
     <div id="main" role="main" class="container">
       <article class="page">
   <div class="entry">
+	  
+<h3>New content is provided weekly with the recent videos displayed.  Please check back often and review the archived material by clicking on a post of interest.</h3>
 
 <div class="container" style="display: none;" id="2021-02-13">
 <h4 data-toggle="collapse" data-target="#2021-02-13_collapse">The fascinating (and dangerous) places scientists aren't exploring | Ella Al-Shamahi (posted: 2021-02-13)</h4>
@@ -119,7 +121,7 @@ function compareDate(datePosted) {
   var datePostedClean = datePosted.replace(/-/g, "");
   if (Number(datePostedClean) <= Number(currentDate)) {
     x.style.display = "block";
-    var twoWeeksAgo = Number(currentDate) - 15;
+    var twoWeeksAgo = Number(currentDate) - 14;
     if (Number(datePostedClean) >= Number(twoWeeksAgo)) {
        var res = datePosted.concat("_collapse");
        document.getElementById(res).className = "no-collapsable";
