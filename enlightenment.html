@@ -122,8 +122,7 @@ function compareDate(datePosted) {
     var twoWeeksAgo = Number(currentDate) - 15;
     if (Number(datePostedClean) >= Number(twoWeeksAgo)) {
        var res = datePosted.concat("_collapse");
-       document.getElementById(res).className = "collapse show";
-       document.getElementById("headerrrr").removeAttr('data-toggle');
+       document.getElementById(res).className = "no-collapsable";
     }
   } 
 }      
