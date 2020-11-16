@@ -59,6 +59,7 @@
     <p>Sorry, we can’t find that page that you’re looking for. You can try again by going <a href="/">back to the homepage</a>.</p>
 
 <p>success!</p>
+<p>Date: <span id="datetime"></span></p>
 
 <hr />
 
@@ -72,3 +73,11 @@
         <footer class="footer">
           
 <a href="mailto:contact@most-of-us.org"><i class="svg-icon email"></i></a>
+
+          </html>
+        
+<script>
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleDateString();
+</script>
+  
