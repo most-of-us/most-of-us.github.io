@@ -121,7 +121,8 @@ function compareDate(datePosted) {
     x.style.display = "block";
     var twoWeeksAgo = Number(currentDate) - 15;
     console.log(twoWeeksAgo);
-    if (Number(datePostedClean) >= twoWeeksAgo) {
+    console.log(datePostedClean);
+    if (Number(datePostedClean) >= Number(twoWeeksAgo)) {
        console.log(datePosted)
        var res = datePosted.concat("_collapse");
        console.log(res)
