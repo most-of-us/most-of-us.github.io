@@ -14,8 +14,6 @@ permalink: /home/
 * We believe in religious freedom, as long as it does not infringe on the rights of others and is within the law.
 
 
-<div style="margin:0 auto;">
-<iframe width="660" height="371.25" src="https://www.youtube.com/embed/RxyQNEVOElU?modestbranding=1&fs=0&disablekb=1&controls=0" frameborder="0" allow="autoplay; encrypted-media; gyroscope"></iframe>
-</div>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/RxyQNEVOElU?modestbranding=1&fs=0&disablekb=1&controls=0" frameborder="0" allow="autoplay; encrypted-media; gyroscope"></iframe>
 
 ----
