@@ -20,7 +20,7 @@ permalink: /definitions/
 
 ***Scientific Method*** - principles and procedures for the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment, and the formulation and testing of hypotheses
 
-***Scientific Theory*** - an explanation of an aspect of the natural world that can be repeatedly tested and verified in accordance with the scientific method, using accepted protocols of observation, measurement, and evaluation of results.
+***Scientific Theory*** - an explanation of an aspect of the natural world that can be repeatedly tested and verified in accordance with the scientific method, using accepted protocols of observation, measurement, and evaluation of results
 
 ***Supernatural*** - of or relating to an order of existence beyond the visible observable universe
 
